@@ -1,0 +1,28 @@
+/* Estilo para el navbar en móviles */
+.navbar-toggler {
+    border-color: #ffffff; /* Cambiar color del borde del botón en móviles */
+  }
+  
+  .navbar-nav .nav-item .nav-link {
+    color: #333; /* Color de los enlaces del navbar */
+  }
+  
+  .navbar-nav .nav-item .nav-link:hover {
+    color: #007bff; /* Color de los enlaces al pasar el mouse */
+  }
+  
+  /* Estilo para el footer */
+  .footer {
+    background-color: #f8f9fa;
+  }
+  
+  .footer p {
+    margin: 0;
+    font-size: 14px;
+  }
+  
+  /* Agregar un poco de espacio al contenido */
+  .content-section {
+    padding: 20px;
+  }
+  
